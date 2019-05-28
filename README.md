@@ -11,6 +11,7 @@ ___
 ## .NET
 
 - [Thor.NET](https://github.com/joncloud/thor_net)
+- [MiniProfiler](https://github.com/MiniProfiler/dotnet)
 
 ___
 ## JavaScript
