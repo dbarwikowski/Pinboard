@@ -20,3 +20,7 @@ ___
 - [AppVeyor](https://www.appveyor.com/)
 - [CircleCI](https://circleci.com/)
 - [Bitbucket](https://bitbucket.org/product/features/pipelines)
+
+___
+## Awesome
+- [Github Resume](https://github.com/resume/resume.github.com)
